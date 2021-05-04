@@ -3,7 +3,7 @@ setlocal enabledelayedexpansion
 
 echo Command is running. Press CTRL+C to quit.
 
-start "ping.log"
+start ping.log
 
 FOR /L %%i IN () DO (
 
